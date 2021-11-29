@@ -1,8 +1,16 @@
 En tus palabras, ¿Qué es internet?
+- es una tecnologia que nos permite conectarnos con el mundo
 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+-por medio de un modem y de antenas satelitales
 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS?
+-el internet se organiza por jerarquias y las ip son las direcciones del que lo esta usando.
 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+-Lo que pasa en ese momento es que tu acccedes a tu cancion y la informacion recorre kilómetros desde un servidor para llegar a tu equipo.
 Describe los protocolos que existen en internet, en específico HTTP y HTML
+son jerarquias que se usan en el lenguaje de programación.
 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+lo que aprendi es que es un proceso que por medio de codigos, una informacion se esconde para que los demas no la puedan ver.
 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
-¿Cómo funciona la búsqueda de google?   
+lo que se es que no debemos dar contraseñas a extranjeros y ademas no dar clicks a pestañas raras
+¿Cómo funciona la búsqueda de google?  
+al tu preguntar algo en google, la computadora se conecta con un  servidor que lo proporciona los datos con lo que le servicio de google te va a contestar
